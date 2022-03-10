@@ -1,0 +1,38 @@
+div{
+    width: 280px;
+    background: lightblue;
+    margin: 0px 42%;
+    margin-top: 4%;
+    border-radius: 10px;
+}
+.display-box{
+    width: 97%;
+    height: 30px;
+    background: lightgoldenrodyellow;
+    font-size: 28px;
+}
+
+
+.button{
+    background: bisque;
+    box-shadow: 1px 1px lightgrey;
+    font-size: 32px;
+    border-radius: 7px;
+    margin: 5px;
+    width:45px;
+}
+
+.button1{
+    background: bisque;
+    box-shadow: 1px 1px lightgrey;
+    font-size: 32px;
+    border-radius: 7px;
+    margin: 5px;
+    width: 56px;
+}
+
+h2{
+    text-align: center;
+    margin-top: 30px;
+    
+}
